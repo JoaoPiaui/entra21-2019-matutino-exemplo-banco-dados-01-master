@@ -1,0 +1,10 @@
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.csprojAssemblyReference.cache
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.Form1.resources
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.Properties.Resources.resources
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.csproj.GenerateResource.cache
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\bin\Debug\Exemplo01.exe.config
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\bin\Debug\Exemplo01.exe
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\bin\Debug\Exemplo01.pdb
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.exe
+C:\Users\Alunos\Downloads\entra21-2019-matutino-exemplo-banco-dados-01-master\ExemploBandoDados01\Exemplo01\obj\Debug\Exemplo01.pdb
